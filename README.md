@@ -18,7 +18,7 @@ Context
 
 ### Overview
 -No_SQL_setup_starter.ipynb </br>
-This JupyterNotebook file uses data imported through the terminal (see the Markdown cell at the top for the text used to import the data). It then prepares the uk_food database and establishments collection for use.  The codes adds a new document for the restaurant 'Penang Flavours', and uses data in the database to help assign a Business Type ID to the new document. It prepares the database by removing documents from the Dover Local Authrority, and updates the data types for latitude, longitude and Rating Value. 
+This JupyterNotebook file uses data imported through the terminal (see the Markdown cell at the top for the text used to import the data). It then prepares the uk_food database and establishments collection for use.  The code adds a new document for the restaurant 'Penang Flavours', and uses data in the database to help assign a Business Type ID to the new document. It prepares the database by removing documents from the Dover Local Authrority, and updates the data types for latitude, longitude and Rating Value. 
 
 -No_SQL_analysis_starter.ipynb </br>
 This JupyterNotebook file uses the data prepared in the 'No_SQL_setup_starter.ipynb' file so be sure that file has already been run.  This file does an exploratory analysis of the data to answer 4 questions:
